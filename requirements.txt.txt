@@ -1,0 +1,11 @@
+streamlit
+requests
+folium
+pandas
+numpy
+geopy
+scikit-learn
+tensorflow
+plotly
+streamlit-folium
+streamlit-lottie
